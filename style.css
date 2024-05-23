@@ -1,0 +1,11 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 345555;
+    padding: 209px;
+    /* Agrega la propiedad background-color aquí */
+    background: linear-gradient(to right, #6b4ad7,#90294d);
+}
+  
